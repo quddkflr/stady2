@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa0ee347-d3dc-40a1-b918-02a60a04e9c3" name="Changes" comment="study 2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hello/servlet/basic/request/RequestParamServlet.java" afterDir="false" />
+    <list default="true" id="fa0ee347-d3dc-40a1-b918-02a60a04e9c3" name="Changes" comment="study 3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello/servlet/basic/request/RequestBodyStringServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/basic/hello-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +126,8 @@
       <workItem from="1727874731148" duration="403000" />
       <workItem from="1727875147507" duration="2916000" />
       <workItem from="1727878096866" duration="313000" />
-      <workItem from="1727962071256" duration="1412000" />
+      <workItem from="1727962071256" duration="1477000" />
+      <workItem from="1728046008055" duration="666000" />
     </task>
     <task id="LOCAL-00001" summary="stady 1">
       <option name="closed" value="true" />
@@ -171,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727878379871</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="study 3">
+      <option name="closed" value="true" />
+      <created>1727965402011</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727965402011</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,7 +218,8 @@
     <MESSAGE value="stady 1" />
     <MESSAGE value="study 1" />
     <MESSAGE value="study 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="study 2" />
+    <MESSAGE value="study 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="study 3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
