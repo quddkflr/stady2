@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa0ee347-d3dc-40a1-b918-02a60a04e9c3" name="Changes" comment="study 6">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hello/servlet/basic/response/ResponseHtmlServlet.java" afterDir="false" />
+    <list default="true" id="fa0ee347-d3dc-40a1-b918-02a60a04e9c3" name="Changes" comment="study 7">
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello/servlet/basic/response/ResponseJsonServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello/servlet/domain/member/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello/servlet/domain/member/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hello/servlet/domain/member/MemberRepositoryTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/basic/request/RequestBodyJsonServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/servlet/basic/request/RequestBodyJsonServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/basic/request/RequestBodyStringServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/servlet/basic/request/RequestBodyStringServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/basic/response/ResponseHeaderServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/servlet/basic/response/ResponseHeaderServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +131,8 @@
       <workItem from="1728128050296" duration="32000" />
       <workItem from="1728128783054" duration="3042000" />
       <workItem from="1728205214756" duration="1865000" />
-      <workItem from="1728303679335" duration="1021000" />
+      <workItem from="1728303679335" duration="1080000" />
+      <workItem from="1728393113342" duration="1786000" />
     </task>
     <task id="LOCAL-00001" summary="stady 1">
       <option name="closed" value="true" />
@@ -213,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728207922424</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="study 7">
+      <option name="closed" value="true" />
+      <created>1728304749312</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1728304749313</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,7 +259,8 @@
     <MESSAGE value="study 4" />
     <MESSAGE value="study 5" />
     <MESSAGE value="study 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="study 6" />
+    <MESSAGE value="study 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="study 7" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
