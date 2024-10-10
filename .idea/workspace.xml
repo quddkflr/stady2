@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa0ee347-d3dc-40a1-b918-02a60a04e9c3" name="Changes" comment="study 8">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hello/servlet/web/servlet/MemberFormServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hello/servlet/web/servlet/MemberListServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hello/servlet/web/servlet/MemberSaveServlet.java" afterDir="false" />
+    <list default="true" id="fa0ee347-d3dc-40a1-b918-02a60a04e9c3" name="Changes" comment="study 9">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/members.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/members/new-form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/jsp/members/save.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10.2/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10.2/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/basic/hello-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/basic/hello-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +38,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -133,7 +135,8 @@
       <workItem from="1728205214756" duration="1865000" />
       <workItem from="1728303679335" duration="1080000" />
       <workItem from="1728393113342" duration="1875000" />
-      <workItem from="1728474429906" duration="2107000" />
+      <workItem from="1728474429906" duration="2143000" />
+      <workItem from="1728569569883" duration="524000" />
     </task>
     <task id="LOCAL-00001" summary="stady 1">
       <option name="closed" value="true" />
@@ -231,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728394965687</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="study 9">
+      <option name="closed" value="true" />
+      <created>1728478225837</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1728478225837</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,7 +281,8 @@
     <MESSAGE value="study 6" />
     <MESSAGE value="study 7" />
     <MESSAGE value="study 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="study 8" />
+    <MESSAGE value="study 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="study 9" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
