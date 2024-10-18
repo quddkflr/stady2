@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa0ee347-d3dc-40a1-b918-02a60a04e9c3" name="Changes" comment="study 16">
-      <change afterPath="$PROJECT_DIR$/src/main/java/hello/servlet/web/frontcontroller/v5/adapter/ControllerV4HandlerAdapter.java" afterDir="false" />
+    <list default="true" id="fa0ee347-d3dc-40a1-b918-02a60a04e9c3" name="Changes" comment="study 17">
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello/servlet/web/springmvc/old/MyHttpRequestHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello/servlet/web/springmvc/old/OldController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello/servlet/web/springmvc/v1/SpringMemberFormControllerV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello/servlet/web/springmvc/v1/SpringMemberListControllerV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hello/servlet/web/springmvc/v1/SpringMemberSaveControllerV1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/frontcontroller/v5/FrontControllerServletV5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/servlet/web/frontcontroller/v5/FrontControllerServletV5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +98,7 @@
       <recent name="C:\Users\nmtoy\Desktop\servlet\src\main\webapp\WEB-INF\views" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hello.servlet.web.springmvc.v1" />
       <recent name="hello.servlet.web.frontcontroller.v4" />
       <recent name="hello.servlet.web.frontcontroller.v4.controller" />
       <recent name="hello.servlet.web.frontcontroller.v3" />
@@ -152,7 +157,9 @@
       <workItem from="1728993878987" duration="621000" />
       <workItem from="1729086158956" duration="1050000" />
       <workItem from="1729087226981" duration="700000" />
-      <workItem from="1729173729387" duration="430000" />
+      <workItem from="1729173729387" duration="589000" />
+      <workItem from="1729259701107" duration="1232000" />
+      <workItem from="1729260953450" duration="154000" />
     </task>
     <task id="LOCAL-00001" summary="stady 1">
       <option name="closed" value="true" />
@@ -314,7 +321,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729087899222</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="study 17">
+      <option name="closed" value="true" />
+      <created>1729174295214</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1729174295214</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,7 +376,8 @@
     <MESSAGE value="study 14" />
     <MESSAGE value="study 15" />
     <MESSAGE value="study 16" />
-    <option name="LAST_COMMIT_MESSAGE" value="study 16" />
+    <MESSAGE value="study 17" />
+    <option name="LAST_COMMIT_MESSAGE" value="study 17" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
